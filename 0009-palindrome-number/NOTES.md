@@ -1,1 +1,1 @@
-​
+In this optimized solution, we directly reverse the last half of the number and compare it with the first half. Additionally, we handle special cases where negative numbers and numbers ending with 0 are not palindromes. This approach reduces the time complexity and avoids the need for converting the integer to a string.​
