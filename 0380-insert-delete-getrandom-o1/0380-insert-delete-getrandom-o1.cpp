@@ -5,44 +5,35 @@ public:
     }
     
     bool insert(int val) {
-        if (valueToIndex.find(val) != valueToIndex.end()) {
-            return false; // Value already exists in the set
-        }
+        if(indexMap.find(val)!=indexMap.end()) return false;
 
-        values.insert(val);
-        valueToIndex[val] = values.size() - 1;
+        value.push_back(val);
+        indexMap[val]=value.size()-1;
         return true;
     }
     
     bool remove(int val) {
-        if (valueToIndex.find(val) == valueToIndex.end()) {
-            return false; // Value not found in the set
-        }
+       if(indexMap.find(val)==indexMap.end()){
+           return false;
+           }
 
-        // Get the iterator to the value in the set
-        auto it = values.find(val);
-
-        // Erase the value from the set
-        values.erase(it);
-
-        // Erase the value from the index map
-        valueToIndex.erase(val);
-
-        return true;
+       int last=   value.back();
+        indexMap[last]=indexMap[val];
+       value[indexMap[last]]=last;
+       value.pop_back();
+       indexMap.erase(val);
+       return true;
     }
     
     int getRandom() {
         // Use rand() to generate a random index within the range of the set
-        int randomIndex = rand() % values.size();
+        int randomIndex = rand() % value.size();
 
-        // Advance the iterator to the random index
-        auto it = std::next(values.begin(), randomIndex);
-
-        return *it;
+        return value[randomIndex];
     }
     private:
-    std::set<int> values;
-    std::unordered_map<int, int> valueToIndex;
+    vector<int> value;
+    unordered_map<int, int> indexMap;
 };
 
 /**
