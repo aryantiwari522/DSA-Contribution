@@ -10,7 +10,6 @@
  * };
  */
 class Solution {
-public:
     public:
         vector<int> ans;
     vector<int> inorderTraversal(TreeNode* root) {
