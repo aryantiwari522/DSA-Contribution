@@ -1,1 +1,1 @@
-​
+This code first checks if the array is empty and returns an empty string if so. Then it sorts the array and compares the first and last strings to find the common prefix. The common prefix is determined by iterating through the characters of the first and last strings until a mismatch is found. The result is the substring of the first string up to the common length.​
