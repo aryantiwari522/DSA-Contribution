@@ -71,6 +71,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
