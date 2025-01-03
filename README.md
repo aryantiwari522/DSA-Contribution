@@ -72,6 +72,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -108,5 +109,6 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
