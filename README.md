@@ -70,6 +70,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -85,6 +86,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -121,4 +123,8 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2691-count-vowel-strings-in-ranges) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
