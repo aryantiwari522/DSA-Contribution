@@ -7,42 +7,37 @@ public:
             return false;
         }
 
-        stack<int> open;
-        stack<int> openClose;
-
+        int open=0;
         for(int i=0;i<n;i++)
         {
-            if(locked[i]=='0')
+            if(s[i]=='(' || locked[i]=='0')
             {
-                openClose.push(i);
+                open++;
             }
-            else if(s[i]=='(')
-            {
-                open.push(i);
+            else{
+                open--;
             }
-            else if(s[i]==')')
+            if(open<0)
             {
-                if(!open.empty())
-                {
-                    open.pop();
-                }
-                else if(!openClose.empty())
-                {
-                    openClose.pop();
-                }
-                else
-                {
-                    return false;
-                }
+                return false;
             }
         }
-
-        while(!open.empty() && !openClose.empty() && open.top() < openClose.top())
+        int close=0;
+        for(int i=n-1;i>=0;i--)
         {
-            open.pop();
-            openClose.pop();
+            if(s[i]==')' || locked[i]=='0')
+            {
+                close++;
+            }
+            else{
+                close--;
+            }
+            if(close<0)
+            {
+                return false;
+            }
         }
 
-        return open.empty();
+        return true;
     }
 };
