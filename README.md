@@ -79,6 +79,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1502-construct-k-palindrome-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -111,6 +113,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
