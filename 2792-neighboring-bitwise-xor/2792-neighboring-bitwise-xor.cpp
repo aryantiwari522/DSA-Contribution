@@ -6,10 +6,8 @@ public:
         {
             XOR^=n;
         }
-        if(XOR==0)
-        {
-            return true;
-        }
+        if(XOR==0) return true;
+        
         return false;
     }
 };
