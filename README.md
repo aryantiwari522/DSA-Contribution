@@ -69,6 +69,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
@@ -178,4 +179,16 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
