@@ -76,6 +76,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2465-shifting-letters-ii) |
@@ -146,6 +147,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -193,5 +195,6 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
