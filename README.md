@@ -69,6 +69,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
@@ -155,6 +156,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Prefix Sum
 |  |
