@@ -83,6 +83,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2358-number-of-ways-to-split-array) |
