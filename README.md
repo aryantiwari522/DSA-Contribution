@@ -76,6 +76,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -104,6 +105,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -143,6 +145,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
