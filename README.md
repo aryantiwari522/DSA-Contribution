@@ -111,6 +111,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -228,6 +229,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
+| [2434-design-a-number-container-system](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -291,4 +293,12 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
