@@ -78,6 +78,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1876-map-of-highest-peak) |
@@ -180,6 +181,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -307,6 +309,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -315,5 +318,10 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2448-count-number-of-bad-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
