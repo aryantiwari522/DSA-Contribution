@@ -320,6 +320,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
