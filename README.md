@@ -68,6 +68,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -300,6 +302,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
