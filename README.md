@@ -96,6 +96,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2465-shifting-letters-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -120,6 +121,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2434-design-a-number-container-system](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -177,6 +179,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
+| [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
@@ -218,6 +221,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1502-construct-k-palindrome-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2509-minimize-xor) |
+| [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 ## Stack
 |  |
 | ------- |
