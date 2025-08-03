@@ -28,7 +28,11 @@ public:
                 v.push_back(element);
             }
         }
-        sort(v.begin(), v.end());
+        //sort(v.begin(), v.end()); T.C is nlog(n).
+
+        //now i am going to use nth_element algorithm, it T.C is o(n).
+        nth_element(v.begin(), v.begin()+v.size()/2 ,v.end());
+
         for(int i=0;i<v.size()/2;i++)
         {
             result+=min(v[i],min_Value*2);
