@@ -68,6 +68,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0889-buddy-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
@@ -253,6 +255,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
@@ -339,6 +342,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
