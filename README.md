@@ -103,6 +103,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3429-special-array-i) |
@@ -183,6 +184,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -335,6 +337,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -345,4 +348,12 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
