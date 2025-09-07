@@ -76,6 +76,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
+| [0605-can-place-flowers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
@@ -223,6 +224,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2509-minimize-xor) |
