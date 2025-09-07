@@ -81,6 +81,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -333,6 +334,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2448-count-number-of-bad-pairs) |
