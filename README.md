@@ -110,6 +110,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2792-neighboring-bitwise-xor) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -324,6 +326,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3447-clear-digits) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Design
 |  |
 | ------- |
