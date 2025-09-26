@@ -110,6 +110,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [4005-maximum-total-subarray-value-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
@@ -231,6 +232,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2509-minimize-xor) |
 | [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
+| [4005-maximum-total-subarray-value-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4005-maximum-total-subarray-value-i) |
 ## Stack
 |  |
 | ------- |
