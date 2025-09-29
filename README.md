@@ -110,6 +110,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -133,6 +134,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2509-minimize-xor) |
 | [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4005-maximum-total-subarray-value-i) |
 ## Stack
 |  |
