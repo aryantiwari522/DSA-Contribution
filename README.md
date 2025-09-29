@@ -112,6 +112,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [4005-maximum-total-subarray-value-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/aryantiwari522/DSA-Contribution/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
