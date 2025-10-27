@@ -199,6 +199,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0792-binary-search) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Prefix Sum
@@ -372,4 +373,8 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
