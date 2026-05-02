@@ -186,6 +186,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0152-maximum-product-subarray) |
+| [0788-rotated-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0788-rotated-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -352,6 +353,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0788-rotated-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
