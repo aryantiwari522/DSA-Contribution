@@ -76,6 +76,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0792-binary-search) |
@@ -187,6 +188,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0788-rotated-digits) |
 ## Sorting
 |  |
@@ -355,6 +357,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0788-rotated-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1477-product-of-the-last-k-numbers) |
