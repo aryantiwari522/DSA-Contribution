@@ -142,6 +142,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0796-rotate-string) |
 | [0889-buddy-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1502-construct-k-palindrome-strings) |
@@ -219,6 +220,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
