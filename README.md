@@ -69,6 +69,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -280,6 +281,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
@@ -357,6 +359,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0788-rotated-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
