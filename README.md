@@ -338,6 +338,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
 ## Simulation
@@ -394,4 +395,8 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
