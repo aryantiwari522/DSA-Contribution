@@ -76,6 +76,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0152-maximum-product-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
@@ -122,6 +123,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0889-buddy-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
@@ -175,6 +177,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
@@ -196,6 +199,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
@@ -325,6 +329,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
