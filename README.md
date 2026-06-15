@@ -110,6 +110,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2792-neighboring-bitwise-xor) |
+| [2965-find-missing-and-repeated-values](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2965-find-missing-and-repeated-values) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -139,6 +140,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2685-first-completely-painted-row-or-column](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2689-rearranging-fruits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2965-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -296,6 +298,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [2145-grid-game](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2965-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -377,6 +380,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2965-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Data Stream
 |  |
