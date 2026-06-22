@@ -74,6 +74,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
@@ -171,6 +172,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2509-minimize-xor) |
