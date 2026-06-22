@@ -71,6 +71,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0152-maximum-product-subarray) |
@@ -201,6 +202,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
@@ -351,6 +353,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0061-rotate-list](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0455-assign-cookies) |
 ## Simulation
