@@ -68,6 +68,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
@@ -203,6 +204,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
@@ -353,6 +355,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
