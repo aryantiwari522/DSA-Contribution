@@ -71,6 +71,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
@@ -205,6 +206,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0164-maximum-gap) |
