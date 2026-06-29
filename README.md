@@ -74,6 +74,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0118-pascals-triangle) |
@@ -132,6 +133,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0889-buddy-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0889-buddy-strings) |
@@ -303,6 +305,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
