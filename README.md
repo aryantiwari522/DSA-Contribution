@@ -69,6 +69,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0048-rotate-image) |
@@ -361,6 +362,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0075-sort-colors) |
