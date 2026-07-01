@@ -86,6 +86,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
@@ -374,6 +375,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0088-merge-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
