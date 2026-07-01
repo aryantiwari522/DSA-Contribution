@@ -5,12 +5,16 @@ class Solution {
         int slow=0;
         for(int fast=0;fast<n;fast++){
             if(nums[fast]!=0){
-                nums[slow]=nums[fast];
+               if (nums[fast] != 0) {
+                
+                if (fast != slow) {
+                    int temp = nums[fast];
+                    nums[fast] = nums[slow];
+                    nums[slow] = temp; 
+                }
                 slow++;
             }
-        }
-        for(int i=slow;i<n;i++){
-            nums[i]=0;
+            }
         }
     }
 }
