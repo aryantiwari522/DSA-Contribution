@@ -87,6 +87,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0169-majority-element](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
@@ -184,6 +185,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2509-minimize-xor) |
@@ -232,6 +234,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0792-binary-search) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -379,6 +382,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
