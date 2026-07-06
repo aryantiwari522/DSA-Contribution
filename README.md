@@ -97,6 +97,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0792-binary-search](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
+| [1089-duplicate-zeros](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1089-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1396-count-servers-that-communicate) |
@@ -384,6 +385,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0283-move-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0455-assign-cookies) |
+| [1089-duplicate-zeros](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1089-duplicate-zeros) |
 ## Simulation
 |  |
 | ------- |
