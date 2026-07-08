@@ -164,6 +164,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0796-rotate-string) |
 | [0889-buddy-strings](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0952-word-subsets) |
@@ -384,6 +385,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0455-assign-cookies) |
 | [1089-duplicate-zeros](https://github.com/aryantiwari522/DSA-Contribution/tree/master/1089-duplicate-zeros) |
 ## Simulation
