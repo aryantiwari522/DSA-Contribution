@@ -287,6 +287,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryantiwari522/DSA-Contribution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/aryantiwari522/DSA-Contribution/tree/master/3447-clear-digits) |
@@ -329,6 +330,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0684-redundant-connection](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
@@ -453,4 +455,12 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0986-interval-list-intersections) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
