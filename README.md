@@ -298,6 +298,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0820-find-eventual-safe-states) |
@@ -331,6 +332,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0100-same-tree) |
 | [0684-redundant-connection](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0854-making-a-large-island) |
@@ -459,8 +461,10 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
