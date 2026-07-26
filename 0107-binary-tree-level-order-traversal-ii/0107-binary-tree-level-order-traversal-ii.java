@@ -20,12 +20,11 @@ class Solution {
         Queue<TreeNode> q =  new LinkedList<>();
         q.add(root);
         q.add(null);
-        Stack<List<Integer>> s=new Stack<>();
         List<Integer> currList = new ArrayList<>();
         while(!q.isEmpty()){
             TreeNode currNode = q.remove();
             if(currNode == null){
-                s.push(currList);
+                result.add(currList);
                 currList=new ArrayList<>();
                 if(q.isEmpty()) break;
                 else{
@@ -38,9 +37,7 @@ class Solution {
                 if(currNode.right != null) q.add(currNode.right);
             }
         }
-        while(!s.isEmpty()){
-            result.add(s.pop());
-        }
+        Collections.reverse(result);
         return result;
     }
 }
