@@ -12,28 +12,23 @@
  *         this.right = right;
  *     }
  * }
- */
-class Solution {
+ */class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        if(root == null) return result;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        q.add(null);
-        List<Integer> currList =  new ArrayList<>();
-        while(!q.isEmpty()){
-            TreeNode currNode = q.remove();
-            if(currNode ==  null){
-                result.add(currList.get(currList.size() - 1));
-                if(q.isEmpty()) break;
-                else q.add(null);
-            }
-            else{
-                currList.add(currNode.val);
-                if(currNode.left!= null) q.add(currNode.left);
-                if(currNode.right!=null) q.add(currNode.right);
-            }
-        }
+        dfs(root, 0, result);
         return result;
+    }
+
+    private void dfs(TreeNode node, int depth, List<Integer> result) {
+        if (node == null) return;
+
+        // First time visiting this level -> add the node value
+        if (depth == result.size()) {
+            result.add(node.val);
+        }
+
+        // Prioritize right branch first
+        dfs(node.right, depth + 1, result);
+        dfs(node.left, depth + 1, result);
     }
 }
