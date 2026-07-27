@@ -307,6 +307,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0407-trapping-rain-water-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -346,6 +347,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0101-symmetric-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0199-binary-tree-right-side-view) |
@@ -487,6 +489,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0199-binary-tree-right-side-view) |
@@ -503,6 +506,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use t
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aryantiwari522/DSA-Contribution/tree/master/0199-binary-tree-right-side-view) |
